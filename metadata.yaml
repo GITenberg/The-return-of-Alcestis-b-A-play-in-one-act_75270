@@ -1,0 +1,34 @@
+_repo: The-return-of-Alcestis-b-A-play-in-one-act_75270
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Housman, Lawrence
+    - Bunny, Benjamin
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
+description: ''
+gutenberg_issued: '2025-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75270'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/wu.89099759698
+pgterms:marc905: 20220121053821housman
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Ian Crann, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bSamuel French, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The return of Alcestis : $b A play in one act'
+url: http://www.gutenberg.org/ebooks/75270
